@@ -1,0 +1,26 @@
+{
+"name":"App Icon", 
+"description":"by CYGGB", 
+"icons":[
+  {
+    "name":"Surge1", 
+    "url":"https://raw.githubusercontent.com/CYGGB/AppIcon/main/Icon/Surge%20Icon/Blue.png"
+  }, 
+  {
+    "name":"Surge2", 
+    "url":"https://raw.githubusercontent.com/CYGGB/AppIcon/main/Icon/Surge%20Icon/Classic.PNG"
+  }, 
+  {
+    "name":"Surge3", 
+    "url":"https://raw.githubusercontent.com/CYGGB/AppIcon/main/Icon/Surge%20Icon/Dark.PNG"
+  }, 
+  {
+    "name":"Surge4",
+    "url":"https://raw.githubusercontent.com/CYGGB/AppIcon/main/Icon/Surge%20Icon/EX.PNG"
+  }, 
+  {
+    "name":"WiFi1", 
+    "url":"https://raw.githubusercontent.com/CYGGB/AppIcon/main/Icon/WIFI1.png"
+  }, 
+  {"name":"bili", "url":"https://raw.githubusercontent.com/CYGGB/AppIcon/main/AppStore/BiliBili.png"}
+  ]}
